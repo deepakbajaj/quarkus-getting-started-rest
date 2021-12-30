@@ -11,6 +11,6 @@ public class RepResourceRest {
     @GET
     @Produces(MediaType.TEXT_PLAIN)
     public String hello() {
-        return "Hello RESTEasy";
+        return "Hello RESTEasy love you jaan";
     }
 }
